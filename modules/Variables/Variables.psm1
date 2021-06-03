@@ -9,7 +9,7 @@ $_repoSyncServer = "EOC-POWERSHELL"
 # UNC path to share, where repository is stored (used in Refresh-Console)
 $_repoShare = "\\lcso-rms\fdrive\Infrastructure Group\3. Support\PSScripts"
 # name of computers, which should contain global Powershell profile (i.e. scripts2root\profile.ps1) and module with admin functions (i.e. scripts2module\adminFunctions)
-$_computerWithProfile = "eoc-powershell", "lap-colton", "lap-11755"
+$_computerWithProfile = "EOC-POWERSHELL", "lap-colton", "lap-11755"
 
 ## SMTP
 # email address of your IT department, errors will be send to this address
@@ -17,7 +17,7 @@ $_adminEmail = "cjclark@sheriffleefl.org" # for example it@contoso.com
 # company SMTP server, Send-Email function will use it for sending emails
 $_smtpServer = "mail.sheriffleefl.org" # for example autodiscover.contoso.com
 # address that will be used as sender in function Send-Email
-$_from = "LCSO_IT@sheriffleefl.org" # for example monitoring@contoso.com
+$_from = "LCSO-IT@sheriffleefl.org" # for example monitoring@contoso.com
 
 <# 
 for inspiration:

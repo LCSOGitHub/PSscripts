@@ -711,16 +711,16 @@ try {
         "$(Get-Date -Format HH:mm:ss) - Cloning repository data to $clonedRepository"
         $force = $true
         try {
-            if (Test-Path "github.com/LCSOGitHub" -IsValid) {
+            if (Test-Path "github.com/LCSOGitHub/PSscripts" -IsValid) {
                 # its local path (hack because of TEST installation)
-                $result = _startProcess git -argumentList "clone --local `"github.com/LCSOGitHub`" `"$clonedRepository`"" -outputErr2Std
+                $result = _startProcess git -argumentList "clone --local `"github.com/LCSOGitHub/PSscripts`" `"$clonedRepository`"" -outputErr2Std
         } else {
             # its URL
             $acc = Import-Clixml "$PSScriptRoot\login.xml"
             $l = $acc.UserName
             $p = $acc.GetNetworkCredential().Password
             # instead __REPLACEME__ use URL of your company repository (i.e. something like: dev.azure.com/ztrhgf/WUG_show/_git/WUG_show). Final URL will than be something like this: https://altLogin:altPassword@dev.azure.com/ztrhgf/WUG_show/_git/WUG_show)
-            $result = _startProcess git -argumentList "clone `"https://$l`:$p@github.com/LCSOGitHub`" `"$clonedRepository`"" -outputErr2Std
+            $result = _startProcess git -argumentList "clone `"https://$l`:$p@github.com/LCSOGitHub/PSscripts`" `"$clonedRepository`"" -outputErr2Std
         }
             if ($result -match "fatal: ") { throw $result }
         } catch {
