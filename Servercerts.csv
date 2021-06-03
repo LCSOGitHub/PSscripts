@@ -1,0 +1,3864 @@
+[Subject]
+  CN=HDQ-EV-APP1, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  6700078D7B4A54EE8B1A50AFCA000300078D7B
+
+[Not Before]
+  12/6/2020 7:23:26 AM
+
+[Not After]
+  12/6/2021 7:23:26 AM
+
+[Thumbprint]
+  E6EE8F2C6E76B2CDBC786FFC3AF7CD7FE78A5CE6
+ [Subject]
+  CN=WMSvc-HDQ-EV-APP1
+
+[Issuer]
+  CN=WMSvc-HDQ-EV-APP1
+
+[Serial Number]
+  6B293D384DB59F9041A9C991A785F5D4
+
+[Not Before]
+  6/1/2017 9:59:44 AM
+
+[Not After]
+  5/30/2027 9:59:44 AM
+
+[Thumbprint]
+  E1E7EB2099A6ED3C2F7506143E486C50ABB3B18A
+
+hdq-ev-app1
+
+
+
+
+[Subject]
+  CN=HDQ-HEAT-APP, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  670007633BEB03A28B42B4114D00030007633B
+
+[Not Before]
+  9/27/2020 5:41:34 AM
+
+[Not After]
+  9/27/2021 5:41:34 AM
+
+[Thumbprint]
+  EB2FC79D163C92E63E1CFF338DAAD0E058AE5A15
+
+HDQ-HEAT-APP
+[Subject]
+  CN=HDQ-PDQ, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  6700079688E4BA7CF55CE1D7FA000300079688
+
+[Not Before]
+  12/22/2020 1:37:23 AM
+
+[Not After]
+  12/22/2021 1:37:23 AM
+
+[Thumbprint]
+  DE2E63919F2751D463D3E6841DF89C5BB61F130B
+
+hdq-pdq
+[Subject]
+  O=Genetec Security Center, CN=EOC-GEN-DIR-02
+
+[Issuer]
+  O=Genetec Security Center, CN=EOC-GEN-DIR-02
+
+[Serial Number]
+  55ADF774D16BD9B14C2F7AB782AB364D
+
+[Not Before]
+  11/7/2019 11:29:26 AM
+
+[Not After]
+  11/7/2119 11:29:26 AM
+
+[Thumbprint]
+  FB1A4130E9F93294EBDB562EB4808ADB7C2E0AC4
+ [Subject]
+  dnQualifier=Genetec, CN=eoc-gen-dir-02.sheriffleefl.org
+
+[Issuer]
+  CN=GenetecUpdateService
+
+[Serial Number]
+  00F1A134D05FFB6BA7F3AAA684CD2693
+
+[Not Before]
+  11/5/2019 7:00:00 PM
+
+[Not After]
+  12/31/2099 7:00:00 PM
+
+[Thumbprint]
+  B60622EF0D550FD33A785A6FBC4A1A00E08381ED
+ [Subject]
+  CN=EOC-GEN-DIR-02, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  670007627A663CFEE0789E9F2300030007627A
+
+[Not Before]
+  9/25/2020 3:27:41 PM
+
+[Not After]
+  9/25/2021 3:27:41 PM
+
+[Thumbprint]
+  4D950AD8A62D9AFC8B8CEACC0023D66264CA5608
+ [Subject]
+  O=Genetec Security Center, CN=EOC-GEN-DIR-02
+
+[Issuer]
+  O=Genetec Security Center, CN=EOC-GEN-DIR-02
+
+[Serial Number]
+  7FA6F2F0D5065485470FE530079C23FA
+
+[Not Before]
+  11/7/2019 9:36:45 AM
+
+[Not After]
+  11/7/2119 9:36:45 AM
+
+[Thumbprint]
+  397AE207948461DB642F1598DA809E9FA5AA555D
+
+eoc-gen-dir-02
+[Subject]
+  CN=SolarWinds-Orion
+
+[Issuer]
+  CN=SolarWinds-Orion
+
+[Serial Number]
+  008EEC2F13F5C2C2AFCFF359E5B3260F
+
+[Not Before]
+  5/14/2010 5:59:25 AM
+
+[Not After]
+  12/31/2039 1:59:59 PM
+
+[Thumbprint]
+  7909499AAC97ADD128E51A364C59A3B93D61E759
+ [Subject]
+  CN=HDQ-ORIONSQL, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  67000739FF0DBD93FE63F4E34B0003000739FF
+
+[Not Before]
+  7/16/2020 9:47:24 PM
+
+[Not After]
+  7/16/2021 9:47:24 PM
+
+[Thumbprint]
+  0AB4F91D380509D9ADAB03BEF17AE1BBDAB61F25
+
+hdq-orionsql
+[Subject]
+  CN=LCSO-NAI, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  670007821385ED102C155906E5000300078213
+
+[Not Before]
+  11/17/2020 4:33:15 AM
+
+[Not After]
+  11/17/2021 4:33:15 AM
+
+[Thumbprint]
+  76F2AEC32EF0184D7D60F52B3B6DBC5F0A825A7F
+ [Subject]
+  CN=AH_LCSO-NAI, OU=ePO, O=McAfee
+
+[Issuer]
+  CN=AH_CA_lcso-nai, OU=AH, O=McAfee
+
+[Serial Number]
+  0B2923D6DA2F7EB5
+
+[Not Before]
+  12/31/1969 7:00:00 PM
+
+[Not After]
+  4/30/2047 8:46:27 AM
+
+[Thumbprint]
+  2C1AF1274A282EC8F09D6D657988155656B21F01
+
+lcso-nai
+[Subject]
+  CN=EOC-GEN-ARCH-03, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  670007627645E226C658144951000300076276
+
+[Not Before]
+  9/25/2020 3:24:30 PM
+
+[Not After]
+  9/25/2021 3:24:30 PM
+
+[Thumbprint]
+  B46022881FE9DAFD57921D6FCE375ABC564DE905
+ [Subject]
+  dnQualifier=Genetec, CN=eoc-gen-arch-03.sheriffleefl.org
+
+[Issuer]
+  CN=GenetecUpdateService
+
+[Serial Number]
+  00BF93A1309D7CE48A10FC01BB419543
+
+[Not Before]
+  11/5/2019 7:00:00 PM
+
+[Not After]
+  12/31/2099 7:00:00 PM
+
+[Thumbprint]
+  7C3C7D20A6CAFFE9CBF1FA787D303B0E9B62331F
+ [Subject]
+  O=Genetec Security Center, CN=EOC-GEN-ARCH-03
+
+[Issuer]
+  O=Genetec Security Center, CN=EOC-GEN-ARCH-03
+
+[Serial Number]
+  624B108841A9A982490436BDFD8DB935
+
+[Not Before]
+  11/7/2019 9:45:45 AM
+
+[Not After]
+  11/7/2119 9:45:45 AM
+
+[Thumbprint]
+  607296D1711A442C64BA1DD6D02FAF2DBEE19420
+
+eoc-gen-arch-03
+[Subject]
+  CN=LCSO-CRITCALL, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  67000723220BFA41E4ABF26E47000300072322
+
+[Not Before]
+  6/8/2020 6:16:48 AM
+
+[Not After]
+  6/8/2021 6:16:48 AM
+
+[Thumbprint]
+  AE6C8D51A9DD18098FAADAD910E9A48CFF1550AC
+
+LCSO-CRITCALL
+[Subject]
+  CN=HDQ-ALARM, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  670007A12936EED4F127692AF600030007A129
+
+[Not Before]
+  1/8/2021 6:27:31 AM
+
+[Not After]
+  1/8/2022 6:27:31 AM
+
+[Thumbprint]
+  E8BEE66FE95153B1594500858E8C7A3C803322C5
+
+hdq-alarm
+[Subject]
+  CN=HDQ-ALARMSQL, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  670007A1288700D46B929CD61D00030007A128
+
+[Not Before]
+  1/8/2021 6:27:03 AM
+
+[Not After]
+  1/8/2022 6:27:03 AM
+
+[Thumbprint]
+  A9406A2D4A97B778E8930753A16C1482A94681AF
+
+hdq-alarmsql
+[Subject]
+  dnQualifier=Genetec, CN=eoc-gen-arch-02.sheriffleefl.org
+
+[Issuer]
+  CN=GenetecUpdateService
+
+[Serial Number]
+  00B4F7E6AAA69A78C6E901CC02837329
+
+[Not Before]
+  11/5/2019 7:00:00 PM
+
+[Not After]
+  12/31/2099 7:00:00 PM
+
+[Thumbprint]
+  FD859CA82080AD2B23821C847053113551987EDC
+ [Subject]
+  CN=EOC-GEN-ARCH-02, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  67000762773429125FB6ABD6BC000300076277
+
+[Not Before]
+  9/25/2020 3:27:18 PM
+
+[Not After]
+  9/25/2021 3:27:18 PM
+
+[Thumbprint]
+  29B50F08C88D78F52231F34E1CFC66C467285488
+ [Subject]
+  O=Genetec Security Center, CN=EOC-GEN-ARCH-02
+
+[Issuer]
+  O=Genetec Security Center, CN=EOC-GEN-ARCH-02
+
+[Serial Number]
+  17F17FCE266D68A84597A64F14AF4A89
+
+[Not Before]
+  11/7/2019 9:48:48 AM
+
+[Not After]
+  11/7/2119 9:48:48 AM
+
+[Thumbprint]
+  0C6A0CECA39B096D7E3C2D848B92C5D23F06F0D6
+
+eoc-gen-arch-02
+[Subject]
+  OU=COMMON_CPS, C=US, O=Motorola_Solutions_LMR, CN=CommonCpsService
+
+[Issuer]
+  C=US, O=Motorola_Solutions_LMR, CN=Motorola_Solutions_Default_COMMON_CPS_IM_CA
+
+[Serial Number]
+  059B6AAF9DA7153BE4EF1C5B
+
+[Not Before]
+  10/4/2011 3:34:46 PM
+
+[Not After]
+  9/27/2036 3:34:46 PM
+
+[Thumbprint]
+  ED3EAE661A675979FEA95644951938FD3D629661
+ [Subject]
+  OU=COMMON_CPS, C=US, O=Motorola_Solutions_LMR, CN=CommonCps256Service
+
+[Issuer]
+  C=US, O=Motorola_Solutions Inc, CN=Default_COMMON_CPS_IM_CA_sha256RSA
+
+[Serial Number]
+  023B16E9551233588641
+
+[Not Before]
+  1/18/2017 6:10:36 PM
+
+[Not After]
+  1/12/2042 6:10:36 PM
+
+[Thumbprint]
+  C554FE5E3401E7B652873471AFBF3529EDDB953A
+ [Subject]
+  OU=COMMON_CPS, C=US, O=Motorola_Solutions_LMR, CN=CommonSTS256Service
+
+[Issuer]
+  C=US, O=Motorola_Solutions Inc, CN=Default_COMMON_CPS_IM_CA_sha256RSA
+
+[Serial Number]
+  369E07B321D50FAA22
+
+[Not Before]
+  5/24/2018 2:47:12 PM
+
+[Not After]
+  5/18/2043 2:47:12 PM
+
+[Thumbprint]
+  8DFA3236E0D8E9B17252415C257C486944B364DF
+ [Subject]
+  OU=COMMON_CPS, C=US, O=Motorola_Solutions_LMR, CN=CommonCpsClient
+
+[Issuer]
+  C=US, O=Motorola_Solutions_LMR, CN=Motorola_Solutions_Default_COMMON_CPS_IM_CA
+
+[Serial Number]
+  059B6AAF9DA73CDCA88AA1DB
+
+[Not Before]
+  10/4/2011 3:34:50 PM
+
+[Not After]
+  9/27/2036 3:34:50 PM
+
+[Thumbprint]
+  8776B5ED2A9A3506440A54520AFEEECBCFF24C4F
+ [Subject]
+  OU=COMMON_CPS, C=US, O=Motorola_Solutions_LMR, CN=CommonCps256Client
+
+[Issuer]
+  C=US, O=Motorola_Solutions Inc, CN=Default_COMMON_CPS_IM_CA_sha256RSA
+
+[Serial Number]
+  023B16E9551362BBC2C1
+
+[Not Before]
+  1/18/2017 6:10:36 PM
+
+[Not After]
+  1/12/2042 6:10:36 PM
+
+[Thumbprint]
+  3B45A42BEB2F4D1FAB62559376F91ED6E557EA61
+ [Subject]
+  OU=COMMON_CPS, C=US, O=Motorola_Solutions_LMR, CN=CommonCpsApacheTomcat
+
+[Issuer]
+  C=US, O=Motorola_Solutions_LMR, CN=Motorola_Solutions_Default_COMMON_CPS_IM_CA
+
+[Serial Number]
+  059B6ABB019557EAA204613C
+
+[Not Before]
+  2/14/2012 4:49:42 PM
+
+[Not After]
+  2/7/2037 4:49:42 PM
+
+[Thumbprint]
+  3A07A9D62DE95AF4681D8090556B3E3283C9CF24
+ [Subject]
+  OU=COMMON_CPS, C=US, O=Motorola_Solutions_LMR, CN=CommonSTSService
+
+[Issuer]
+  C=US, O=Motorola_Solutions_LMR, CN=Motorola_Solutions_Default_COMMON_CPS_IM_CA
+
+[Serial Number]
+  0E5AAAB1742C0503D1EADC
+
+[Not Before]
+  1/12/2012 9:14:49 AM
+
+[Not After]
+  1/5/2037 9:14:49 AM
+
+[Thumbprint]
+  297A55F59786BDC88F2ACE0645446E513837B732
+ [Subject]
+  CN=HDQ-MOTOROLA, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  67000792E24C8614C731F5A6820003000792E2
+
+[Not Before]
+  12/15/2020 2:11:08 PM
+
+[Not After]
+  12/15/2021 2:11:08 PM
+
+[Thumbprint]
+  17C491C17F30188F16D60F0EC690563B002FB019
+
+hdq-motorola
+[Subject]
+  CN=HDQ-AOE, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  670007B60B7CE6F274089FADE000030007B60B
+
+[Not Before]
+  2/6/2021 9:14:44 AM
+
+[Not After]
+  2/6/2022 9:14:44 AM
+
+[Thumbprint]
+  A77E6C12FCA016580B142A02A54945AE8387DEA2
+
+hdq-aoe
+[Subject]
+  CN=EOC-GEN-DIR-01, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  670007627969F9B1EF1553FE46000300076279
+
+[Not Before]
+  9/25/2020 3:27:31 PM
+
+[Not After]
+  9/25/2021 3:27:31 PM
+
+[Thumbprint]
+  B2C0305BF5847EEE37A5FBC78E05215C41CB03A0
+ [Subject]
+  dnQualifier=Genetec, CN=eoc-gen-dir-01.sheriffleefl.org
+
+[Issuer]
+  CN=GenetecUpdateService
+
+[Serial Number]
+  00F8E8CCECC50069C73AB18D87C6A9CD
+
+[Not Before]
+  11/5/2019 7:00:00 PM
+
+[Not After]
+  12/31/2099 7:00:00 PM
+
+[Thumbprint]
+  47966E11D6A71FDAA79352BCB573D12F056BF417
+ [Subject]
+  O=Genetec Security Center, CN=EOC-GEN-DIR-01
+
+[Issuer]
+  O=Genetec Security Center, CN=EOC-GEN-DIR-01
+
+[Serial Number]
+  7DE9B2673F1D7D8347933BCD59572245
+
+[Not Before]
+  11/7/2019 10:33:19 AM
+
+[Not After]
+  11/7/2119 10:33:19 AM
+
+[Thumbprint]
+  2893D6975174FE1A385EBA411D1095E2B1010452
+
+eoc-gen-dir-01
+[Subject]
+  CN=WMSvc-HDQ-EV-DA1
+
+[Issuer]
+  CN=WMSvc-HDQ-EV-DA1
+
+[Serial Number]
+  181B8CE27C17AD9E4CDAE4E8E29751FA
+
+[Not Before]
+  6/13/2017 2:19:03 PM
+
+[Not After]
+  6/11/2027 2:19:03 PM
+
+[Thumbprint]
+  3E95A810B1C4C33899FEFCD50D6F74C2C1F92E15
+ [Subject]
+  CN=HDQ-EV-DA1, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  67000799A0EF9121FE89BE79540003000799A0
+
+[Not Before]
+  12/28/2020 2:39:51 AM
+
+[Not After]
+  12/28/2021 2:39:51 AM
+
+[Thumbprint]
+  10B5212D90DCFDF8B7CBC2EB88BC96F66820F3B1
+
+hdq-ev-da1
+[Subject]
+  CN=HDQ-HEAT-SQL, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  670007633D443139A90BABF2A500030007633D
+
+[Not Before]
+  9/27/2020 5:47:33 AM
+
+[Not After]
+  9/27/2021 5:47:33 AM
+
+[Thumbprint]
+  61DA442340DD7D847CB85058FC713D93CFCBE58B
+
+HDQ-HEAT-SQL
+[Subject]
+  CN=EOC-GEN-ARCH-01, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  6700076278DC65A93AAA429BDE000300076278
+
+[Not Before]
+  9/25/2020 3:27:20 PM
+
+[Not After]
+  9/25/2021 3:27:20 PM
+
+[Thumbprint]
+  778DD7BA898CE3C9D404BB562A5982A0A66F72EB
+ [Subject]
+  dnQualifier=Genetec, CN=eoc-gen-arch-01.sheriffleefl.org
+
+[Issuer]
+  CN=GenetecUpdateService
+
+[Serial Number]
+  0082B55AFC2DFF22D3C54F53EA2FE97B
+
+[Not Before]
+  11/5/2019 7:00:00 PM
+
+[Not After]
+  12/31/2099 7:00:00 PM
+
+[Thumbprint]
+  17F3B6141365838C03950128ECCD95C4D0DBAE98
+ [Subject]
+  O=Genetec Security Center, CN=EOC-GEN-ARCH-01
+
+[Issuer]
+  O=Genetec Security Center, CN=EOC-GEN-ARCH-01
+
+[Serial Number]
+  35956BE41545FFA944F7D1A4CBF2D019
+
+[Not Before]
+  11/7/2019 10:42:02 AM
+
+[Not After]
+  11/7/2119 10:42:02 AM
+
+[Thumbprint]
+  09EAF49EFC87F523653AE876C0AE80300AA363A7
+ [Subject]
+  dnQualifier=Genetec, CN=eoc-gen-arch-01.sheriffleefl.org
+
+[Issuer]
+  CN=GenetecUpdateService
+
+[Serial Number]
+  00B3B7C12FC2E7A7C3DABEA59E6FBC49
+
+[Not Before]
+  1/9/2021 7:00:00 PM
+
+[Not After]
+  12/31/2099 7:00:00 PM
+
+[Thumbprint]
+  021D1FE3C6B97ADA1F2DD609B7C88C4790AF77C4
+
+eoc-gen-arch-01
+[Subject]
+  CN=HDQ-EVDB11, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  6700078593FEE8027161AE7B6C000300078593
+
+[Not Before]
+  11/23/2020 5:44:57 AM
+
+[Not After]
+  11/23/2021 5:44:57 AM
+
+[Thumbprint]
+  C9536342C4C4E586DEB3300E7A1010F5751AB05C
+
+hdq-evdb11
+[Subject]
+  CN=HDQ-DSIXFER, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  6700072FDCC001D7B82664AC62000300072FDC
+
+[Not Before]
+  6/29/2020 9:46:28 AM
+
+[Not After]
+  6/29/2021 9:46:28 AM
+
+[Thumbprint]
+  1CDF252FA0C0BFABC953305E5C0B88E845FE767A
+
+hdq-dsixfer
+[Subject]
+  CN=HDQ-REPORTING, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  6700074F3FA82C5CC4025AAD6E000300074F3F
+
+[Not Before]
+  8/24/2020 8:12:28 PM
+
+[Not After]
+  8/24/2021 8:12:28 PM
+
+[Thumbprint]
+  B17667162EBD68E9CA0AB070999A198D31E9AC52
+
+hdq-reporting
+[Subject]
+  CN=adfs.sheriffleefl.org, OU=Domain Control Validated
+
+[Issuer]
+  CN=Go Daddy Secure Certificate Authority - G2, OU=http://certs.godaddy.com/repository/, O="GoDaddy.com, Inc.", L=Scottsdale, S=Arizona, C=US
+
+[Serial Number]
+  55438502538322D9
+
+[Not Before]
+  6/7/2018 7:54:49 AM
+
+[Not After]
+  6/18/2020 10:36:56 AM
+
+[Thumbprint]
+  A11149766BFE67002C3078FD040095FF88F72868
+ [Subject]
+  CN=HDQ-ADFS-02, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  670007105F0832A9868CF2F73C00030007105F
+
+[Not Before]
+  5/5/2020 1:27:09 PM
+
+[Not After]
+  5/5/2021 1:27:09 PM
+
+[Thumbprint]
+  6B0795CA5A7CA77AE19CEC09CE1F1636BEF767BB
+ [Subject]
+  CN=Go Daddy Root Certificate Authority - G2, O="GoDaddy.com, Inc.", L=Scottsdale, S=Arizona, C=US
+
+[Issuer]
+  CN=Go Daddy Root Certificate Authority - G2, O="GoDaddy.com, Inc.", L=Scottsdale, S=Arizona, C=US
+
+[Serial Number]
+  00
+
+[Not Before]
+  8/31/2009 8:00:00 PM
+
+[Not After]
+  12/31/2037 6:59:59 PM
+
+[Thumbprint]
+  47BEABC922EAE80E78783462A79F45C254FDE68B
+ [Subject]
+  CN=Go Daddy Root Certificate Authority - G2, O="GoDaddy.com, Inc.", L=Scottsdale, S=Arizona, C=US
+
+[Issuer]
+  OU=Go Daddy Class 2 Certification Authority, O="The Go Daddy Group, Inc.", C=US
+
+[Serial Number]
+  1BE715
+
+[Not Before]
+  1/1/2014 2:00:00 AM
+
+[Not After]
+  5/30/2031 3:00:00 AM
+
+[Thumbprint]
+  340B2880F446FCC04E59ED33F52B3D08D6242964
+ [Subject]
+  CN=adfs.sheriffleefl.org, OU=Domain Control Validated
+
+[Issuer]
+  CN=Go Daddy Secure Certificate Authority - G2, OU=http://certs.godaddy.com/repository/, O="GoDaddy.com, Inc.", L=Scottsdale, S=Arizona, C=US
+
+[Serial Number]
+  438ED34F1B9AC568
+
+[Not Before]
+  6/18/2020 1:00:49 PM
+
+[Not After]
+  6/18/2022 10:36:56 AM
+
+[Thumbprint]
+  2ADB035273FCC363EA4736816B070DD7E9E00EC0
+ [Subject]
+  CN=Go Daddy Secure Certificate Authority - G2, OU=http://certs.godaddy.com/repository/, O="GoDaddy.com, Inc.", L=Scottsdale, S=Arizona, C=US
+
+[Issuer]
+  CN=Go Daddy Root Certificate Authority - G2, O="GoDaddy.com, Inc.", L=Scottsdale, S=Arizona, C=US
+
+[Serial Number]
+  07
+
+[Not Before]
+  5/3/2011 3:00:00 AM
+
+[Not After]
+  5/3/2031 3:00:00 AM
+
+[Thumbprint]
+  27AC9369FAF25207BB2627CEFACCBE4EF9C319B8
+ [Subject]
+  OU=Go Daddy Class 2 Certification Authority, O="The Go Daddy Group, Inc.", C=US
+
+[Issuer]
+  OU=Go Daddy Class 2 Certification Authority, O="The Go Daddy Group, Inc.", C=US
+
+[Serial Number]
+  00
+
+[Not Before]
+  6/29/2004 1:06:20 PM
+
+[Not After]
+  6/29/2034 1:06:20 PM
+
+[Thumbprint]
+  2796BAE63F1801E277261BA0D77770028F20EEE4
+
+hdq-adfs-02
+[Subject]
+  CN=HDQ-MQM, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  67000769021DA6E852F82CE60A000300076902
+
+[Not Before]
+  10/6/2020 1:44:06 PM
+
+[Not After]
+  10/6/2021 1:44:06 PM
+
+[Thumbprint]
+  84D2FD226527C2875A117B69F5A2E5C27B8197CE
+ [Subject]
+  CN=*.sheriffleefl.org, OU=Domain Control Validated
+
+[Issuer]
+  CN=Go Daddy Secure Certificate Authority - G2, OU=http://certs.godaddy.com/repository/, O="GoDaddy.com, Inc.", L=Scottsdale, S=Arizona, C=US
+
+[Serial Number]
+  00D9108EB6C8934A0F
+
+[Not Before]
+  3/5/2015 4:37:41 PM
+
+[Not After]
+  3/5/2016 4:37:41 PM
+
+[Thumbprint]
+  280D0B14F34147C3900D06C79AF5BDBE57787B61
+
+hdq-mqm
+
+
+
+
+[Subject]
+  CN=HDQ-ORION-DPA01, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  670007C2807DA48346EDE90BEB00030007C280
+
+[Not Before]
+  2/24/2021 1:26:46 PM
+
+[Not After]
+  2/24/2022 1:26:46 PM
+
+[Thumbprint]
+  6036660D51B70A615DFEFFC377E4384AA3275B89
+
+hdq-orion-dpa01
+[Subject]
+  CN=HDQ-ORION-SQL01, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  670007C25F0E2FCE580A91D07900030007C25F
+
+[Not Before]
+  2/24/2021 9:34:42 AM
+
+[Not After]
+  2/24/2022 9:34:42 AM
+
+[Thumbprint]
+  1A663B5F87461BEEA283B910ABFBDA5B2F554484
+
+hdq-orion-sql01
+
+
+[Subject]
+  CN=HDQ-CBBSTN, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  6700076522F94A41B5904EE0B1000300076522
+
+[Not Before]
+  9/30/2020 1:41:44 PM
+
+[Not After]
+  9/30/2021 1:41:44 PM
+
+[Thumbprint]
+  9D925F8EB74B67A2D01F42E07A157A5A5ABF007F
+
+hdq-cbbstn
+
+
+[Subject]
+  CN=HDQ-CBBSTNSQL, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  67000765237161493C77E1CD7A000300076523
+
+[Not Before]
+  9/30/2020 1:43:03 PM
+
+[Not After]
+  9/30/2021 1:43:03 PM
+
+[Thumbprint]
+  1876AA2F46DE1C6615DD63486B85A2718CD8C4AA
+
+hdq-cbbstnsql
+[Subject]
+  CN=HDQ-TRACS-WEB, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  6700077DA394136CBA495001F2000300077DA3
+
+[Not Before]
+  11/9/2020 9:14:53 PM
+
+[Not After]
+  11/9/2021 9:14:53 PM
+
+[Thumbprint]
+  946F6A4D7CFECB0B5E6FEC06D7F872842CF251D2
+
+hdq-tracs-web
+[Subject]
+  CN=HDQ-ACCURINT, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  670007480646E539C62D5EBABF000300074806
+
+[Not Before]
+  8/11/2020 9:47:22 PM
+
+[Not After]
+  8/11/2021 9:47:22 PM
+
+[Thumbprint]
+  272D9945A7F98E3C2D5D1313E77971F06921EFFE
+
+hdq-accurint
+[Subject]
+  CN=HDQ-MDT, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  670007228746E132F01FA45A2F000300072287
+
+[Not Before]
+  6/6/2020 9:34:33 PM
+
+[Not After]
+  6/6/2021 9:34:33 PM
+
+[Thumbprint]
+  00B7E78BA069755DC76A97D4D3B797207DC4D3D9
+
+hdq-mdt
+[Subject]
+  CN=EOC-MBX2, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  670007136CFF43E378709F05B500030007136C
+
+[Not Before]
+  5/10/2020 1:41:42 PM
+
+[Not After]
+  5/10/2021 1:41:42 PM
+
+[Thumbprint]
+  5CEBC963F70CACE81BC3A2A9934E57691D16B9E2
+
+eoc-mbx2
+[Subject]
+  CN=HDQ-LR-1, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  6700076CC112FCAAC6026F8FB4000300076CC1
+
+[Not Before]
+  10/13/2020 5:59:22 AM
+
+[Not After]
+  10/13/2021 5:59:22 AM
+
+[Thumbprint]
+  CCB6B7C79F9B5EA98B349DFE7F72D17B26C5F7B2
+ [Subject]
+  CN=*.sheriffleefl.org, OU=Domain Control Validated
+
+[Issuer]
+  CN=Go Daddy Secure Certificate Authority - G2, OU=http://certs.godaddy.com/repository/, O="GoDaddy.com, Inc.", L=Scottsdale, S=Arizona, C=US
+
+[Serial Number]
+  455295597A847274
+
+[Not Before]
+  2/3/2016 2:44:39 PM
+
+[Not After]
+  3/5/2019 4:37:41 PM
+
+[Thumbprint]
+  719AF894B3EC9DB1B9B3D1A8A189976C5F4BC71E
+ [Subject]
+  CN=*.sheriffleefl.org, OU=Domain Control Validated
+
+[Issuer]
+  CN=Go Daddy Secure Certificate Authority - G2, OU=http://certs.godaddy.com/repository/, O="GoDaddy.com, Inc.", L=Scottsdale, S=Arizona, C=US
+
+[Serial Number]
+  56795A05CF9467FA
+
+[Not Before]
+  3/1/2021 7:22:47 AM
+
+[Not After]
+  4/2/2022 8:22:47 AM
+
+[Thumbprint]
+  583E24F779A2F6D60B5C12DEDF509D4D65E45014
+ [Subject]
+  CN=Go Daddy Root Certificate Authority - G2, O="GoDaddy.com, Inc.", L=Scottsdale, S=Arizona, C=US
+
+[Issuer]
+  CN=Go Daddy Root Certificate Authority - G2, O="GoDaddy.com, Inc.", L=Scottsdale, S=Arizona, C=US
+
+[Serial Number]
+  00
+
+[Not Before]
+  8/31/2009 8:00:00 PM
+
+[Not After]
+  12/31/2037 6:59:59 PM
+
+[Thumbprint]
+  47BEABC922EAE80E78783462A79F45C254FDE68B
+ [Subject]
+  CN=*.sheriffleefl.org, OU=Domain Control Validated
+
+[Issuer]
+  CN=Go Daddy Secure Certificate Authority - G2, OU=http://certs.godaddy.com/repository/, O="GoDaddy.com, Inc.", L=Scottsdale, S=Arizona, C=US
+
+[Serial Number]
+  423FA03391DFA8C2
+
+[Not Before]
+  1/24/2019 2:06:31 PM
+
+[Not After]
+  3/5/2021 4:37:41 PM
+
+[Thumbprint]
+  452B47C68CA82A0181529A61248AA0E3B53DD2C0
+ [Subject]
+  CN=Go Daddy Root Certificate Authority - G2, O="GoDaddy.com, Inc.", L=Scottsdale, S=Arizona, C=US
+
+[Issuer]
+  OU=Go Daddy Class 2 Certification Authority, O="The Go Daddy Group, Inc.", C=US
+
+[Serial Number]
+  1BE715
+
+[Not Before]
+  1/1/2014 2:00:00 AM
+
+[Not After]
+  5/30/2031 3:00:00 AM
+
+[Thumbprint]
+  340B2880F446FCC04E59ED33F52B3D08D6242964
+ [Subject]
+  CN=Go Daddy Secure Certificate Authority - G2, OU=http://certs.godaddy.com/repository/, O="GoDaddy.com, Inc.", L=Scottsdale, S=Arizona, C=US
+
+[Issuer]
+  CN=Go Daddy Root Certificate Authority - G2, O="GoDaddy.com, Inc.", L=Scottsdale, S=Arizona, C=US
+
+[Serial Number]
+  07
+
+[Not Before]
+  5/3/2011 3:00:00 AM
+
+[Not After]
+  5/3/2031 3:00:00 AM
+
+[Thumbprint]
+  27AC9369FAF25207BB2627CEFACCBE4EF9C319B8
+ [Subject]
+  OU=Go Daddy Class 2 Certification Authority, O="The Go Daddy Group, Inc.", C=US
+
+[Issuer]
+  OU=Go Daddy Class 2 Certification Authority, O="The Go Daddy Group, Inc.", C=US
+
+[Serial Number]
+  00
+
+[Not Before]
+  6/29/2004 1:06:20 PM
+
+[Not After]
+  6/29/2034 1:06:20 PM
+
+[Thumbprint]
+  2796BAE63F1801E277261BA0D77770028F20EEE4
+
+hdq-lr-1
+[Subject]
+  CN=EOC-MBX1, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  6700076B3FDFAAFD4439038F4B000300076B3F
+
+[Not Before]
+  10/10/2020 8:16:54 AM
+
+[Not After]
+  10/10/2021 8:16:54 AM
+
+[Thumbprint]
+  716D5201A55432BB8809D5478E7ACD6200E8E6A3
+
+EOC-MBX1
+[Subject]
+  CN=HDQ-DFS1, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  67000739FDEAA1F90FAB45633F0003000739FD
+
+[Not Before]
+  7/16/2020 9:12:42 PM
+
+[Not After]
+  7/16/2021 9:12:42 PM
+
+[Thumbprint]
+  C197B3FFC9E2673E0AA64DED4C2C16EAA6F6936C
+
+hdq-dfs1
+[Subject]
+  CN=HDQ-INTEL, OU=RTCC, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  6700070D9A928CD9902D9D355D000300070D9A
+
+[Not Before]
+  5/1/2020 2:16:23 PM
+
+[Not After]
+  5/1/2021 2:16:23 PM
+
+[Thumbprint]
+  2EEB5278F9BF934B707E95A569BED3D70992F3D4
+
+hdq-intel
+
+
+
+
+[Subject]
+  CN=EOC-DFS1, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  67000739D59F916CD56ECDE8740003000739D5
+
+[Not Before]
+  7/16/2020 2:38:58 PM
+
+[Not After]
+  7/16/2021 2:38:58 PM
+
+[Thumbprint]
+  0C440D9A7BFFAA89F53D6DC23470BE5C6537011E
+
+eoc-dfs1
+[Subject]
+  CN=HDQ-PROQA, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  670007B7E7DF897BA45738FA6B00030007B7E7
+
+[Not Before]
+  2/9/2021 5:51:54 AM
+
+[Not After]
+  2/9/2022 5:51:54 AM
+
+[Thumbprint]
+  524266A34B3418CA497AB10A4297CA7346551368
+
+hdq-proqa
+[Subject]
+  CN=WMSvc-SHA2-HDQ-AXIOM-WEB
+
+[Issuer]
+  CN=WMSvc-SHA2-HDQ-AXIOM-WEB
+
+[Serial Number]
+  63566D57D7D0AEB940679230B7E91AEF
+
+[Not Before]
+  9/29/2020 2:36:00 PM
+
+[Not After]
+  9/27/2030 2:36:00 PM
+
+[Thumbprint]
+  FE367C75B6EBA8EBD2F9B5DAE537A9671D1FE5F3
+ [Subject]
+  CN=HDQ-AXIOM-WEB, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  6700075C633044D7121059E213000300075C63
+
+[Not Before]
+  9/15/2020 1:10:44 PM
+
+[Not After]
+  9/15/2021 1:10:44 PM
+
+[Thumbprint]
+  952EBA8D9B0AAD42994575D2AC7E8C163D145C07
+
+hdq-axiom-web
+[Subject]
+  CN=HDQ-AXIOM-APP, OU=LCSO Computers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  6700075D05FA547BE22145F576000300075D05
+
+[Not Before]
+  9/16/2020 10:03:51 AM
+
+[Not After]
+  9/16/2021 10:03:51 AM
+
+[Thumbprint]
+  FEC5623F54C9AB895FE0827D71E0B95757D1F570
+
+hdq-axiom-app
+[Subject]
+  CN=HDQ-FUNDWARE, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  67000765706DD4D9115813A851000300076570
+
+[Not Before]
+  10/1/2020 1:23:55 AM
+
+[Not After]
+  10/1/2021 1:23:55 AM
+
+[Thumbprint]
+  20F8FC860E199119529D569531A7B3A8EFCF9DB3
+
+hdq-fundware
+
+
+[Subject]
+  CN=EOC-IBASE-SERV, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  6700073C5E8B597E927B790AA3000300073C5E
+
+[Not Before]
+  7/21/2020 2:14:34 PM
+
+[Not After]
+  7/21/2021 2:14:34 PM
+
+[Thumbprint]
+  43FBF422D9C74796B3ABB2D0E6D2EFEE6FEDBBC1
+
+eoc-ibase-serv
+[Subject]
+  CN=HDQ-AXIOM-SQL, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  6700075D170E0C349180E61A46000300075D17
+
+[Not Before]
+  9/16/2020 11:48:23 AM
+
+[Not After]
+  9/16/2021 11:48:23 AM
+
+[Thumbprint]
+  47F153A5F67A3620BC0E2FF92272B0926BFA600D
+
+hdq-axiom-sql
+[Subject]
+  CN=HDQ-DASH, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  6700071ADFB451B3B69453EC48000300071ADF
+
+[Not Before]
+  5/23/2020 9:40:45 PM
+
+[Not After]
+  5/23/2021 9:40:45 PM
+
+[Thumbprint]
+  1C26AF2D3B8D01E7C774A910658B2FBBBA17CCA9
+
+hdq-dash
+[Subject]
+  CN=EOC-ROSOKA-WORK, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  670007C1DAE96700652FAF327900030007C1DA
+
+[Not Before]
+  2/23/2021 4:01:12 PM
+
+[Not After]
+  2/23/2022 4:01:12 PM
+
+[Thumbprint]
+  3B48A72BA545453EB0DD54CA1F9A81CC071A682D
+
+eoc-rosoka-work
+[Subject]
+  CN=webmail.sheriffleefl.org, OU=Domain Control Validated
+
+[Issuer]
+  CN=Go Daddy Secure Certificate Authority - G2, OU=http://certs.godaddy.com/repository/, O="GoDaddy.com, Inc.", L=Scottsdale, S=Arizona, C=US
+
+[Serial Number]
+  00C7FFAE03F01A4E4C
+
+[Not Before]
+  3/30/2020 9:36:38 AM
+
+[Not After]
+  6/26/2022 9:36:38 AM
+
+[Thumbprint]
+  E520AF6C7F694B346331462CA32817309A16A786
+ [Subject]
+  CN=EOC-CAS1, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  6700076AB1A403E8BEF371BE71000300076AB1
+
+[Not Before]
+  10/9/2020 7:41:57 AM
+
+[Not After]
+  10/9/2021 7:41:57 AM
+
+[Thumbprint]
+  D109BA6FE6BA12748DECF71772F7730D40983443
+
+EOC-CAS1
+[Subject]
+  CN=HDQ-MBX1, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  67000769A67A1BAFF32A9E94A10003000769A6
+
+[Not Before]
+  10/7/2020 2:30:37 PM
+
+[Not After]
+  10/7/2021 2:30:37 PM
+
+[Thumbprint]
+  33AA1A71F603D7A545F20DA3F7A18FFE761BCD29
+
+HDQ-MBX1
+[Subject]
+  CN=HDQ-WINAPP, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  67000773FFB919F370B8F10ED40003000773FF
+
+[Not Before]
+  10/23/2020 9:45:30 PM
+
+[Not After]
+  10/23/2021 9:45:30 PM
+
+[Thumbprint]
+  26616D637EE1F625CFB175139C1AD883BC224A95
+
+hdq-winapp
+[Subject]
+  CN=HDQ-MBX2, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  6700076A10D66F438470CD8ED0000300076A10
+
+[Not Before]
+  10/8/2020 6:53:01 AM
+
+[Not After]
+  10/8/2021 6:53:01 AM
+
+[Thumbprint]
+  6420169A988E61109D521950AC227F2F704CEF99
+
+HDQ-MBX2
+[Subject]
+  CN=HDQ-AVTECH, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  6700072195CE5BE744C7871ABE000300072195
+
+[Not Before]
+  6/4/2020 9:42:14 PM
+
+[Not After]
+  6/4/2021 9:42:14 PM
+
+[Thumbprint]
+  2240312FAC234477F63BA8A603C8D8D5D89C3D1E
+
+hdq-avtech
+[Subject]
+  CN=HDQ-ADMANAGE, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  670007139E57DDFBB7C95FE16C00030007139E
+
+[Not Before]
+  5/10/2020 9:50:35 PM
+
+[Not After]
+  5/10/2021 9:50:35 PM
+
+[Thumbprint]
+  FF065F621A894A24A70B423AD89F63E27885A9E2
+
+hdq-admanage
+[Subject]
+  CN=HDQ-BT-APP, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  67000741C9286C72F234A644F80003000741C9
+
+[Not Before]
+  7/31/2020 11:09:54 PM
+
+[Not After]
+  7/31/2021 11:09:54 PM
+
+[Thumbprint]
+  7C0183F7ECE61AFBB6C909A592134EFB5E36B120
+
+HDQ-BT-APP
+[Subject]
+  CN=HDQ-JMTODD, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  67000742DB601A130BAFB0345D0003000742DB
+
+[Not Before]
+  8/2/2020 11:06:26 PM
+
+[Not After]
+  8/2/2021 11:06:26 PM
+
+[Thumbprint]
+  389CAE005DB7D0A311BFC4C3E897154A1907B187
+
+hdq-jmtodd
+
+
+
+
+
+
+
+
+[Subject]
+  CN=SCCM.sheriffleefl.org
+
+[Issuer]
+  CN=SCCM.sheriffleefl.org
+
+[Serial Number]
+  1E84CD3FAE67E1B947A4E1BB240CA7EA
+
+[Not Before]
+  4/26/2016 1:20:55 PM
+
+[Not After]
+  4/3/2116 1:20:55 PM
+
+[Thumbprint]
+  D9F98239B600B093A555576944D6179B8E57A68B
+ [Subject]
+  CN=SMS Token Signing
+
+[Issuer]
+  CN=SMS Token Signing
+
+[Serial Number]
+  3524F41A3A776CBB46760E5BDEC3A510
+
+[Not Before]
+  4/26/2016 3:11:04 PM
+
+[Not After]
+  4/3/2116 3:11:04 PM
+
+[Thumbprint]
+  96218CC8CAD700CB2A169160EE04D2A3869D509B
+ [Subject]
+  CN=SCCM, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  670007645A0D78778284ED6C4A00030007645A
+
+[Not Before]
+  9/29/2020 8:33:02 AM
+
+[Not After]
+  9/29/2021 8:33:02 AM
+
+[Thumbprint]
+  4D5C5E2CEAADDF1066D76B5834C5E00D35E62CDC
+ [Subject]
+  CN=WMSvc-SCCM
+
+[Issuer]
+  CN=WMSvc-SCCM
+
+[Serial Number]
+  20F35A75D6508BA94DF79B02FC93AF88
+
+[Not Before]
+  4/26/2016 3:32:04 PM
+
+[Not After]
+  4/24/2026 3:32:04 PM
+
+[Thumbprint]
+  15B20156601B94E6C5D9C81F0153F2419AF7436D
+
+sccm
+[Subject]
+  CN=LCSO-RMS, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  67000741C484DFB7E4AA7DD3FC0003000741C4
+
+[Not Before]
+  7/31/2020 8:24:26 PM
+
+[Not After]
+  7/31/2021 8:24:26 PM
+
+[Thumbprint]
+  44C83183122C92683CF053BE0AF8E5E0BBFF0DE6
+
+lcso-rms
+[Subject]
+  CN=HDQ-ORION-DPA, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  6700077F049F732BC4A2968259000300077F04
+
+[Not Before]
+  11/11/2020 9:45:57 PM
+
+[Not After]
+  11/11/2021 9:45:57 PM
+
+[Thumbprint]
+  FD2E3B15BC3ED3DA9773B20B45F7ED38E64FFBCE
+
+hdq-orion-dpa
+[Subject]
+  CN=ORION, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  6700079BD932B583459B733E6E000300079BD9
+
+[Not Before]
+  12/31/2020 5:35:24 PM
+
+[Not After]
+  12/31/2021 5:35:24 PM
+
+[Thumbprint]
+  B882B7A4B3956D7D208E3D01D87DEC100B1AA038
+ [Subject]
+  CN=SolarWinds-NCM-Orion
+
+[Issuer]
+  CN=SolarWinds-NCM-Orion
+
+[Serial Number]
+  6AC61178C65F2CB54526642289EA73A6
+
+[Not Before]
+  11/27/2013 4:54:56 PM
+
+[Not After]
+  12/31/2039 6:59:59 PM
+
+[Thumbprint]
+  96297CC97E3DFC1ECD334060D1D6BCB7E1720265
+ [Subject]
+  CN=SolarWinds-Orion
+
+[Issuer]
+  CN=SolarWinds-Orion
+
+[Serial Number]
+  008EEC2F13F5C2C2AFCFF359E5B3260F
+
+[Not Before]
+  5/14/2010 5:59:25 AM
+
+[Not After]
+  12/31/2039 1:59:59 PM
+
+[Thumbprint]
+  7909499AAC97ADD128E51A364C59A3B93D61E759
+ [Subject]
+  CN=*.sheriffleefl.org, OU=Domain Control Validated
+
+[Issuer]
+  CN=Go Daddy Secure Certificate Authority - G2, OU=http://certs.godaddy.com/repository/, O="GoDaddy.com, Inc.", L=Scottsdale, S=Arizona, C=US
+
+[Serial Number]
+  455295597A847274
+
+[Not Before]
+  2/3/2016 2:44:39 PM
+
+[Not After]
+  3/5/2019 4:37:41 PM
+
+[Thumbprint]
+  719AF894B3EC9DB1B9B3D1A8A189976C5F4BC71E
+ [Subject]
+  CN=*.sheriffleefl.org, OU=Domain Control Validated
+
+[Issuer]
+  CN=Go Daddy Secure Certificate Authority - G2, OU=http://certs.godaddy.com/repository/, O="GoDaddy.com, Inc.", L=Scottsdale, S=Arizona, C=US
+
+[Serial Number]
+  56795A05CF9467FA
+
+[Not Before]
+  3/1/2021 7:22:47 AM
+
+[Not After]
+  4/2/2022 8:22:47 AM
+
+[Thumbprint]
+  583E24F779A2F6D60B5C12DEDF509D4D65E45014
+ [Subject]
+  CN=Go Daddy Root Certificate Authority - G2, O="GoDaddy.com, Inc.", L=Scottsdale, S=Arizona, C=US
+
+[Issuer]
+  CN=Go Daddy Root Certificate Authority - G2, O="GoDaddy.com, Inc.", L=Scottsdale, S=Arizona, C=US
+
+[Serial Number]
+  00
+
+[Not Before]
+  8/31/2009 8:00:00 PM
+
+[Not After]
+  12/31/2037 6:59:59 PM
+
+[Thumbprint]
+  47BEABC922EAE80E78783462A79F45C254FDE68B
+ [Subject]
+  CN=*.sheriffleefl.org, OU=Domain Control Validated
+
+[Issuer]
+  CN=Go Daddy Secure Certificate Authority - G2, OU=http://certs.godaddy.com/repository/, O="GoDaddy.com, Inc.", L=Scottsdale, S=Arizona, C=US
+
+[Serial Number]
+  423FA03391DFA8C2
+
+[Not Before]
+  1/24/2019 2:06:31 PM
+
+[Not After]
+  3/5/2021 4:37:41 PM
+
+[Thumbprint]
+  452B47C68CA82A0181529A61248AA0E3B53DD2C0
+ [Subject]
+  CN=SolarWinds-SEUM-AgentProxy
+
+[Issuer]
+  CN=SolarWinds-SEUM-AgentProxy
+
+[Serial Number]
+  51E61A078C84F1AF4931F1EA4EC49F47
+
+[Not Before]
+  8/16/2017 12:00:00 AM
+
+[Not After]
+  8/17/2047 12:00:00 AM
+
+[Thumbprint]
+  3D7B2DF34F4B975B29A3FA2D7E6F14DF2D1EC1CE
+ [Subject]
+  CN=SolarWinds Agent Provision - 90130c79-6ae7-4734-b90f-86adc76c091e
+
+[Issuer]
+  CN=SolarWinds-Orion
+
+[Serial Number]
+  237A7FF0F656DC74586C0F7C3D6A6E57
+
+[Not Before]
+  4/2/2017 12:27:35 PM
+
+[Not After]
+  4/4/2047 8:27:31 AM
+
+[Thumbprint]
+  3A8BB60A3881DF786B780EF291EBE32FD55DB0C5
+ [Subject]
+  CN=SolarWinds IPAM Engine
+
+[Issuer]
+  CN=SolarWinds IPAM Engine
+
+[Serial Number]
+  FB6046F3BA01A08042027453B5124303
+
+[Not Before]
+  4/17/2015 10:59:25 AM
+
+[Not After]
+  12/31/2039 1:59:59 PM
+
+[Thumbprint]
+  39AA8D52A5AEDBCE37D792CB079EAEE77212FB19
+ [Subject]
+  CN=Go Daddy Root Certificate Authority - G2, O="GoDaddy.com, Inc.", L=Scottsdale, S=Arizona, C=US
+
+[Issuer]
+  OU=Go Daddy Class 2 Certification Authority, O="The Go Daddy Group, Inc.", C=US
+
+[Serial Number]
+  1BE715
+
+[Not Before]
+  1/1/2014 2:00:00 AM
+
+[Not After]
+  5/30/2031 3:00:00 AM
+
+[Thumbprint]
+  340B2880F446FCC04E59ED33F52B3D08D6242964
+ [Subject]
+  CN=SolarWinds-SEUM_PlaybackAgent
+
+[Issuer]
+  CN=SolarWinds-SEUM_PlaybackAgent
+
+[Serial Number]
+  14DE015F0461B3B047C49EBE829C0CE0
+
+[Not Before]
+  8/16/2017 12:00:00 AM
+
+[Not After]
+  8/17/2047 12:00:00 AM
+
+[Thumbprint]
+  2C58194F98C0A2BA58FCF39FD65F73CE5162E7BA
+ [Subject]
+  CN=SolarWinds Job Scheduler
+
+[Issuer]
+  CN=SolarWinds Job Scheduler
+
+[Serial Number]
+  5F0AB1DD2A78D8A24C016F4BA3CAF3EB
+
+[Not Before]
+  12/3/2013 10:02:54 AM
+
+[Not After]
+  12/31/2039 6:59:59 PM
+
+[Thumbprint]
+  28F7D39BBE238D3A5F9E118F4115EFC52A14DBF5
+ [Subject]
+  CN=Go Daddy Secure Certificate Authority - G2, OU=http://certs.godaddy.com/repository/, O="GoDaddy.com, Inc.", L=Scottsdale, S=Arizona, C=US
+
+[Issuer]
+  CN=Go Daddy Root Certificate Authority - G2, O="GoDaddy.com, Inc.", L=Scottsdale, S=Arizona, C=US
+
+[Serial Number]
+  07
+
+[Not Before]
+  5/3/2011 3:00:00 AM
+
+[Not After]
+  5/3/2031 3:00:00 AM
+
+[Thumbprint]
+  27AC9369FAF25207BB2627CEFACCBE4EF9C319B8
+ [Subject]
+  OU=Go Daddy Class 2 Certification Authority, O="The Go Daddy Group, Inc.", C=US
+
+[Issuer]
+  OU=Go Daddy Class 2 Certification Authority, O="The Go Daddy Group, Inc.", C=US
+
+[Serial Number]
+  00
+
+[Not Before]
+  6/29/2004 1:06:20 PM
+
+[Not After]
+  6/29/2034 1:06:20 PM
+
+[Thumbprint]
+  2796BAE63F1801E277261BA0D77770028F20EEE4
+
+orion
+
+
+
+
+
+
+
+
+[Subject]
+  CN=LCSO-REPLSRV, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  67000795EAF7E49D6C5D6317280003000795EA
+
+[Not Before]
+  12/21/2020 4:15:07 AM
+
+[Not After]
+  12/21/2021 4:15:07 AM
+
+[Thumbprint]
+  4A7C5538C35491D939517EEE95BC8E1493F11B07
+
+
+[Subject]
+  CN=LCSO-REPLMGR, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  6700071AB561A4F69098ABEDEB000300071AB5
+
+[Not Before]
+  5/23/2020 1:56:42 PM
+
+[Not After]
+  5/23/2021 1:56:42 PM
+
+[Thumbprint]
+  AC55E33F55B2A01D848D742D7FC164C3B07072EE
+
+LCSO-REPLMGR
+[Subject]
+  CN=EOC-VEEAM-P1, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  6700076751A44470A8B710B79F000300076751
+
+[Not Before]
+  10/3/2020 9:44:40 PM
+
+[Not After]
+  10/3/2021 9:44:40 PM
+
+[Thumbprint]
+  A8B886BEDAEBC587FCF2DD8AD963CAA9BAE98F6D
+
+eoc-veeam-p1
+[Subject]
+  CN=HDQ-ENTRUST-IDG, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  67000752CD72ED2FBFB4250D390003000752CD
+
+[Not Before]
+  8/30/2020 9:42:30 PM
+
+[Not After]
+  8/30/2021 9:42:30 PM
+
+[Thumbprint]
+  FCF17A7789DCEB6977E5E5B76B2E557424AA1ED8
+
+hdq-entrust-idg
+[Subject]
+  CN=LCSO-RAPIDID, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  670007743F6D6C89F6C492029800030007743F
+
+[Not Before]
+  10/24/2020 1:54:45 PM
+
+[Not After]
+  10/24/2021 1:54:45 PM
+
+[Thumbprint]
+  38A6B861A8F9D24A9784A9708589A20F2575FF20
+
+LCSO-RAPIDID
+
+
+[Subject]
+  CN=hdq-fsa.sheriffleefl.org
+
+[Issuer]
+  CN=hdq-fsa.sheriffleefl.org
+
+[Serial Number]
+  46056F998C0ADF00
+
+[Not Before]
+  7/17/2019 3:37:43 PM
+
+[Not After]
+  7/18/2029 3:37:43 PM
+
+[Thumbprint]
+  9D1B3745843BD3D67F9F531D6D42E7F387476E47
+ [Subject]
+  CN=WMSvc-HDQ-FSA
+
+[Issuer]
+  CN=WMSvc-HDQ-FSA
+
+[Serial Number]
+  7D07DFE15F5F8E994ED23787CC3D7C5C
+
+[Not Before]
+  4/3/2015 11:36:17 AM
+
+[Not After]
+  3/31/2025 11:36:17 AM
+
+[Thumbprint]
+  83F554631947412278901A836B424D7C319CF946
+ [Subject]
+  CN=HDQ-FSA, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  6700073D4B1C77D14C6462A152000300073D4B
+
+[Not Before]
+  7/23/2020 5:41:13 AM
+
+[Not After]
+  7/23/2021 5:41:13 AM
+
+[Thumbprint]
+  0C73810B6968287A79E4E1B4A4A08331D5B0F5BC
+
+hdq-fsa
+[Subject]
+  CN=HDQ-CORRETRAK, OU=Enable Windows Updates, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  67000777161A9C694D81A46E2F000300077716
+
+[Not Before]
+  10/29/2020 12:57:24 PM
+
+[Not After]
+  10/29/2021 12:57:24 PM
+
+[Thumbprint]
+  87EF37821C123DE531D048FCFD7DCA3394DDAC53
+
+hdq-corretrak
+[Subject]
+  CN=TEST-CORRETRAK, OU=Enable Windows Updates, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  6700077A4AE9CE496737EC3409000300077A4A
+
+[Not Before]
+  11/3/2020 2:01:15 PM
+
+[Not After]
+  11/3/2021 3:01:15 PM
+
+[Thumbprint]
+  0CDAB2C2E7556FA1C6E97F14653C167A5E41D33C
+
+test-corretrak
+
+
+[Subject]
+  CN=LCSO-HOME, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  67000709F786D53C0EA27074A40003000709F7
+
+[Not Before]
+  4/25/2020 9:56:47 PM
+
+[Not After]
+  4/25/2021 9:56:47 PM
+
+[Thumbprint]
+  1D2156BA4FAE18FBF5DD774E4F5FFF89EFE20416
+
+lcso-home
+[Subject]
+  CN=WMSvc-LCSO-FLEET
+
+[Issuer]
+  CN=WMSvc-LCSO-FLEET
+
+[Serial Number]
+  1123384D419262A2453434B891E618ED
+
+[Not Before]
+  7/13/2011 11:45:17 AM
+
+[Not After]
+  7/10/2021 11:45:17 AM
+
+[Thumbprint]
+  A36C5C575367EAD278C23650030137C279FA96A4
+ [Subject]
+  CN=LCSO-FLEET, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  670007174F98EE5E4F4CEA255C00030007174F
+
+[Not Before]
+  5/17/2020 3:02:29 PM
+
+[Not After]
+  5/17/2021 3:02:29 PM
+
+[Thumbprint]
+  2C48F385D4B0D24180EECB6590120C1226468F59
+
+LCSO-FLEET
+[Subject]
+  CN=HDQ-VEEAM-P1, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  67000732A8EBE552099351E3CA0003000732A8
+
+[Not Before]
+  7/3/2020 10:14:35 PM
+
+[Not After]
+  7/3/2021 10:14:35 PM
+
+[Thumbprint]
+  68C3EFBC71BB65C2A2BBDDD6F832794ED31293D5
+
+hdq-veeam-p1
+
+
+[Subject]
+  CN=LCSO-ALARMSQL, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  67000785702DC547991203113A000300078570
+
+[Not Before]
+  11/22/2020 10:12:02 PM
+
+[Not After]
+  11/22/2021 10:12:02 PM
+
+[Thumbprint]
+  A2123138E4B264C59388A4E23CDA79FE0BF5BEA1
+
+LCSO-ALARMSQL
+
+LCSO-ALARM
+[Subject]
+  CN=HDQ-SPLMN, OU=Enable SMBv1, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  67000774FF01864F6972C71EE10003000774FF
+
+[Not Before]
+  10/26/2020 5:53:43 AM
+
+[Not After]
+  10/26/2021 5:53:43 AM
+
+[Thumbprint]
+  BE9296E790F8EAD32C07AC13BCFD6EC2FFFD6119
+
+HDQ-SPLMN
+[Subject]
+  CN=HDQ-NBMEDIA, OU=Enable SMBv1, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  6700076F4B1F815E9B3B27CA92000300076F4B
+
+[Not Before]
+  10/17/2020 1:37:12 AM
+
+[Not After]
+  10/17/2021 1:37:12 AM
+
+[Thumbprint]
+  F83285C77A1944F57BF5BC5CD2D0B55085530C09
+
+hdq-nbmedia
+[Subject]
+  CN=HDQ-VEEAM-P2, OU=Enable SMBv1, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  67000766DD2BA742B2A82864B80003000766DD
+
+[Not Before]
+  10/2/2020 9:48:00 PM
+
+[Not After]
+  10/2/2021 9:48:00 PM
+
+[Thumbprint]
+  F29D0304D0CE151E10FDD7A110F6F6AF285B81CD
+
+hdq-veeam-p2
+[Subject]
+  CN=HDQ-LINX, OU=Enable SMBv1, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  670007A8671715D4EE5B6C44DB00030007A867
+
+[Not Before]
+  1/19/2021 5:35:46 AM
+
+[Not After]
+  1/19/2022 5:35:46 AM
+
+[Thumbprint]
+  47A5620851B0D036B4E5EDD157B0CAD3B1ADDEDC
+
+hdq-linx
+[Subject]
+  CN=FINDER_Router_R01.FL.6.036.0000_2020
+
+[Issuer]
+  CN=FINDER_Router_R01.FL.6.036.0000_2020
+
+[Serial Number]
+  1657A8F5B43265A442F95D8BD42B71FF
+
+[Not Before]
+  11/1/2019 1:00:00 AM
+
+[Not After]
+  1/31/2021 12:00:00 AM
+
+[Thumbprint]
+  D19DF6C6CBF9AFEB33A825BF9C7BCA6ADA76AA9F
+ [Subject]
+  CN=HDQ-PMP, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  67000770F79303D7805A9548C40003000770F7
+
+[Not Before]
+  10/20/2020 5:49:13 AM
+
+[Not After]
+  10/20/2021 5:49:13 AM
+
+[Thumbprint]
+  869511486A18A6797274FE057D2CF755310B8A5B
+ [Subject]
+  CN=FINDER_Router_R01.FL.6.036.0000_2018
+
+[Issuer]
+  CN=FINDER_Router_R01.FL.6.036.0000_2018
+
+[Serial Number]
+  842E344FB05C7E924CE73B9FF16E17E3
+
+[Not Before]
+  11/1/2017 1:00:00 AM
+
+[Not After]
+  1/31/2019 12:00:00 AM
+
+[Thumbprint]
+  7CCF28A41645177303F7AE2C8DEA924966BE4E9D
+ [Subject]
+  CN=FINDER_Router_R01.FL.6.036.0000_2019
+
+[Issuer]
+  CN=FINDER_Router_R01.FL.6.036.0000_2019
+
+[Serial Number]
+  59256A8E88DA55B542C215F052FA8A3A
+
+[Not Before]
+  11/1/2018 1:00:00 AM
+
+[Not After]
+  1/31/2020 12:00:00 AM
+
+[Thumbprint]
+  68F778992B0E9E219844539E2102C3B0AFC5A45B
+
+hdq-pmp
+[Subject]
+  CN=HDQ-HEAT-DEV.sheriffleefl.org
+
+[Issuer]
+  CN=Sophos Heartbeat, CN=CustomerID:b8ca11a9-7e19-44b7-6b73-ac20711600a8, CN=Product License, OU=Heartbeat, O=Sophos, L=Oxford, C=GB
+
+[Serial Number]
+  00AAD24375E1687AFFEA9FB929520E05FB
+
+[Not Before]
+  12/9/2020 10:55:28 AM
+
+[Not After]
+  12/10/2021 10:55:28 AM
+
+[Thumbprint]
+  82680EE7384E95C778DF0FE7ACFB69D88EFD315F
+ [Subject]
+  CN=HDQ-HEAT-DEV, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  6700074B02D8F7426C78C982F5000300074B02
+
+[Not Before]
+  8/17/2020 1:54:47 PM
+
+[Not After]
+  8/17/2021 1:54:47 PM
+
+[Thumbprint]
+  3DEE40EC9AB6B40FA0393D8CE651B9B2645439FA
+
+HDQ-HEAT-DEV
+[Subject]
+  CN=HDQ-HEAT-DISCOV, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  6700072224E03E80F9F21D3632000300072224
+
+[Not Before]
+  6/5/2020 9:41:27 PM
+
+[Not After]
+  6/5/2021 9:41:27 PM
+
+[Thumbprint]
+  BAAF87A22553217DA378B2E31ED56A3254784158
+
+hdq-heat-discov
+[Subject]
+  CN=EOC-RFI-SQL, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  670007C24ADE00D00C2FDA382100030007C24A
+
+[Not Before]
+  2/24/2021 8:09:13 AM
+
+[Not After]
+  2/24/2022 8:09:13 AM
+
+[Thumbprint]
+  99B7368DB67C16F2C684E8D7CBE2F30BE7F0590C
+
+EOC-RFI-SQL
+[Subject]
+  CN=LEE-APP4, OU=OMS, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  6700079187841C5695D163A18F000300079187
+
+[Not Before]
+  12/13/2020 6:03:48 AM
+
+[Not After]
+  12/13/2021 6:03:48 AM
+
+[Thumbprint]
+  19A5E0EE34B9110E2824F2ACEF5898E7FC20A827
+
+lee-app4
+[Subject]
+  CN=HDQ-APACHE, OU=OMS, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  67000780B6A5017F7A22D254290003000780B6
+
+[Not Before]
+  11/14/2020 7:32:50 PM
+
+[Not After]
+  11/14/2021 7:32:50 PM
+
+[Thumbprint]
+  E3BC0CBF326F18944B96FF667272BFF4094C5F09
+
+hdq-apache
+[Subject]
+  CN=LEE-APP3, OU=OMS, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  6700072F3A19BF2051887FFA11000300072F3A
+
+[Not Before]
+  6/28/2020 5:18:30 AM
+
+[Not After]
+  6/28/2021 5:18:30 AM
+
+[Thumbprint]
+  F0665E87787ED61D7433000377F1D5581813DC02
+
+lee-app3
+[Subject]
+  CN=LCSO-DSIXFER, OU=OMS, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  670007AE625C4F10013EDD241200030007AE62
+
+[Not Before]
+  1/26/2021 9:38:32 PM
+
+[Not After]
+  1/26/2022 9:38:32 PM
+
+[Thumbprint]
+  803B76E83292362CE38F072A012CCA97FC2AADCA
+
+LCSO-DSIXFER
+[Subject]
+  CN=LEE-OMSDB, OU=OMS, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  6700073EACBBD81F7B294AE877000300073EAC
+
+[Not Before]
+  7/26/2020 3:55:14 AM
+
+[Not After]
+  7/26/2021 3:55:14 AM
+
+[Thumbprint]
+  2B7978C14F880342798B51A70345182D4714F5A3
+
+lee-omsdb
+[Subject]
+  CN=hdq-veeam.sheriffleefl.org
+
+[Issuer]
+  CN=hdq-veeam.sheriffleefl.org
+
+[Serial Number]
+  00A5BAD4207AEC7557
+
+[Not Before]
+  10/10/2018 8:26:40 AM
+
+[Not After]
+  10/7/2028 8:26:40 AM
+
+[Thumbprint]
+  F3B3007D8F0EC54FBDDABDC2A70EBFEE2A361D7C
+ [Subject]
+  CN=HDQ-VEEAM, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  6700072D49881F2BC673A70238000300072D49
+
+[Not Before]
+  6/24/2020 10:13:43 PM
+
+[Not After]
+  6/24/2021 10:13:43 PM
+
+[Thumbprint]
+  C15849A0633507725BCB7AFBF3CA69CC2077E736
+ [Subject]
+  CN=hdq-veeam.sheriffleefl.org
+
+[Issuer]
+  CN=hdq-veeam.sheriffleefl.org
+
+[Serial Number]
+  00E5C7C0E37C7C10A1
+
+[Not Before]
+  9/3/2018 11:17:13 AM
+
+[Not After]
+  8/31/2028 11:17:13 AM
+
+[Thumbprint]
+  B4035843C11AA46F259B118DC8707BBF319B4DB6
+ [Subject]
+  CN=Veeam Backup Server Certificate
+
+[Issuer]
+  CN=Veeam Backup Server Certificate
+
+[Serial Number]
+  24249C78C85D10944BA46B6291724D3E
+
+[Not Before]
+  9/2/2018 11:33:27 AM
+
+[Not After]
+  9/2/2019 11:33:27 AM
+
+[Thumbprint]
+  A847039F6EA1BD6DF975455A60990E4D860EF484
+ [Subject]
+  CN=Veeam Backup Server Certificate
+
+[Issuer]
+  CN=Veeam Backup Server Certificate
+
+[Serial Number]
+  21F90B077494BFBE44F8FE22D0EC3414
+
+[Not Before]
+  8/1/2019 9:00:20 PM
+
+[Not After]
+  8/1/2029 9:00:20 PM
+
+[Thumbprint]
+  25BDDDE8236A4AF077FF0923410766A77B850FC8
+
+hdq-veeam
+[Subject]
+  CN=EOC-SNAPD-SRV, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  670007C295E63EEA19F27BEA6800030007C295
+
+[Not Before]
+  2/24/2021 4:02:42 PM
+
+[Not After]
+  2/24/2022 4:02:42 PM
+
+[Thumbprint]
+  5A785F2C11D2D70613CAA07621A53A7650F92A0E
+
+eoc-snapd-srv
+[Subject]
+  CN=HDQ-TRACS, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  67000721BE15920413EB0BAF850003000721BE
+
+[Not Before]
+  6/5/2020 5:47:43 AM
+
+[Not After]
+  6/5/2021 5:47:43 AM
+
+[Thumbprint]
+  8FDF356071DE9E86C918DA42FD843D7B88F8EEE1
+
+hdq-tracs
+[Subject]
+  CN=TST-AXIOM-APP, OU=LCSO Computers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  6700075D116303D2958CB7AEBC000300075D11
+
+[Not Before]
+  9/16/2020 11:11:31 AM
+
+[Not After]
+  9/16/2021 11:11:31 AM
+
+[Thumbprint]
+  D35F542871E77FE65BD6E923CBD9A2FC6123966C
+
+tst-axiom-app
+[Subject]
+  CN=EOC-MBX2, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  670007136CFF43E378709F05B500030007136C
+
+[Not Before]
+  5/10/2020 1:41:42 PM
+
+[Not After]
+  5/10/2021 1:41:42 PM
+
+[Thumbprint]
+  5CEBC963F70CACE81BC3A2A9934E57691D16B9E2
+
+eoc-mbx2
+
+
+[Subject]
+  CN=adfs.sheriffleefl.org, OU=Domain Control Validated
+
+[Issuer]
+  CN=Go Daddy Secure Certificate Authority - G2, OU=http://certs.godaddy.com/repository/, O="GoDaddy.com, Inc.", L=Scottsdale, S=Arizona, C=US
+
+[Serial Number]
+  55438502538322D9
+
+[Not Before]
+  6/7/2018 7:54:49 AM
+
+[Not After]
+  6/18/2020 10:36:56 AM
+
+[Thumbprint]
+  A11149766BFE67002C3078FD040095FF88F72868
+ [Subject]
+  CN=Go Daddy Root Certificate Authority - G2, O="GoDaddy.com, Inc.", L=Scottsdale, S=Arizona, C=US
+
+[Issuer]
+  OU=Go Daddy Class 2 Certification Authority, O="The Go Daddy Group, Inc.", C=US
+
+[Serial Number]
+  1BE715
+
+[Not Before]
+  1/1/2014 2:00:00 AM
+
+[Not After]
+  5/30/2031 3:00:00 AM
+
+[Thumbprint]
+  340B2880F446FCC04E59ED33F52B3D08D6242964
+ [Subject]
+  CN=adfs.sheriffleefl.org, OU=Domain Control Validated
+
+[Issuer]
+  CN=Go Daddy Secure Certificate Authority - G2, OU=http://certs.godaddy.com/repository/, O="GoDaddy.com, Inc.", L=Scottsdale, S=Arizona, C=US
+
+[Serial Number]
+  438ED34F1B9AC568
+
+[Not Before]
+  6/18/2020 1:00:49 PM
+
+[Not After]
+  6/18/2022 10:36:56 AM
+
+[Thumbprint]
+  2ADB035273FCC363EA4736816B070DD7E9E00EC0
+ [Subject]
+  CN=Go Daddy Secure Certificate Authority - G2, OU=http://certs.godaddy.com/repository/, O="GoDaddy.com, Inc.", L=Scottsdale, S=Arizona, C=US
+
+[Issuer]
+  CN=Go Daddy Root Certificate Authority - G2, O="GoDaddy.com, Inc.", L=Scottsdale, S=Arizona, C=US
+
+[Serial Number]
+  07
+
+[Not Before]
+  5/3/2011 3:00:00 AM
+
+[Not After]
+  5/3/2031 3:00:00 AM
+
+[Thumbprint]
+  27AC9369FAF25207BB2627CEFACCBE4EF9C319B8
+ [Subject]
+  OU=Go Daddy Class 2 Certification Authority, O="The Go Daddy Group, Inc.", C=US
+
+[Issuer]
+  OU=Go Daddy Class 2 Certification Authority, O="The Go Daddy Group, Inc.", C=US
+
+[Serial Number]
+  00
+
+[Not Before]
+  6/29/2004 1:06:20 PM
+
+[Not After]
+  6/29/2034 1:06:20 PM
+
+[Thumbprint]
+  2796BAE63F1801E277261BA0D77770028F20EEE4
+ [Subject]
+  CN=HDQ-ADFS-01, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  670007C473C76AFBC12885EC4800030007C473
+
+[Not Before]
+  2/27/2021 9:23:10 PM
+
+[Not After]
+  2/27/2022 9:23:10 PM
+
+[Thumbprint]
+  0D872748255B7703B755B711B561B669BB7DB712
+
+hdq-adfs-01
+[Subject]
+  CN=TST-AXIOM-SQL, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  6700075D1E89266A3808EB1F4C000300075D1E
+
+[Not Before]
+  9/16/2020 1:22:24 PM
+
+[Not After]
+  9/16/2021 1:22:24 PM
+
+[Thumbprint]
+  D1900CCBDFEFE22530B0AC34BBEB7E0CEEB19793
+
+tst-axiom-sql
+[Subject]
+  CN=EOC-ROSOKA-SRV, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  670007C2649D98171291FFE76500030007C264
+
+[Not Before]
+  2/24/2021 10:10:47 AM
+
+[Not After]
+  2/24/2022 10:10:47 AM
+
+[Thumbprint]
+  0D862E6570E20C0C416FB69C1892B81B6E6B2600
+
+eoc-rosoka-srv
+[Subject]
+  CN=HDQ-ENTRUST-SSM, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  6700075345C838A5274696BF29000300075345
+
+[Not Before]
+  8/31/2020 1:42:13 PM
+
+[Not After]
+  8/31/2021 1:42:13 PM
+
+[Thumbprint]
+  9C3A6DC05E3C94409DC5A6B17E6616AC032B33EF
+
+hdq-entrust-ssm
+[Subject]
+  CN=WMSvc-SHA2-TST-AXIOM-WEB
+
+[Issuer]
+  CN=WMSvc-SHA2-TST-AXIOM-WEB
+
+[Serial Number]
+  13B8DAFF2015ED8545FD9D4D8DE836A6
+
+[Not Before]
+  9/29/2020 2:32:58 PM
+
+[Not After]
+  9/27/2030 2:32:58 PM
+
+[Thumbprint]
+  FD4834903DC2306D0CACD341ADD86D42CD7F3D51
+ [Subject]
+  CN=TST-AXIOM-WEB, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  6700075D22543391D2B25069FB000300075D22
+
+[Not Before]
+  9/16/2020 1:37:28 PM
+
+[Not After]
+  9/16/2021 1:37:28 PM
+
+[Thumbprint]
+  F77F156FBC72CB7C22AF4D07FC536ED6797D8A97
+
+tst-axiom-web
+[Subject]
+  CN=hdq-veeam-one.sheriffleefl.org
+
+[Issuer]
+  CN=hdq-veeam-one.sheriffleefl.org
+
+[Serial Number]
+  00C20D125FE6C2A244
+
+[Not Before]
+  9/17/2018 3:25:57 PM
+
+[Not After]
+  9/14/2028 3:25:57 PM
+
+[Thumbprint]
+  ED4C44F730547616BE1F6961B4D1CD09BEE737E3
+ [Subject]
+  CN=hdq-veeam-one.sheriffleefl.org
+
+[Issuer]
+  CN=hdq-veeam-one.sheriffleefl.org
+
+[Serial Number]
+  00E762ECE166E4FD0D
+
+[Not Before]
+  2/14/2019 3:07:39 PM
+
+[Not After]
+  2/11/2029 3:07:39 PM
+
+[Thumbprint]
+  E4F4DEC0AB455253809E833F8B424A4DA14AA55D
+ [Subject]
+  CN=hdq-veeam-one.sheriffleefl.org
+
+[Issuer]
+  CN=hdq-veeam-one.sheriffleefl.org
+
+[Serial Number]
+  00F2B0F74CFC9566CC
+
+[Not Before]
+  9/17/2018 3:26:53 PM
+
+[Not After]
+  9/14/2028 3:26:53 PM
+
+[Thumbprint]
+  8B80DF6C171767975236C7D94101AF4314698F33
+ [Subject]
+  CN=hdq-veeam-one.sheriffleefl.org
+
+[Issuer]
+  CN=hdq-veeam-one.sheriffleefl.org
+
+[Serial Number]
+  00B4E4774B1D705D14
+
+[Not Before]
+  5/19/2020 10:37:50 AM
+
+[Not After]
+  5/17/2030 10:37:50 AM
+
+[Thumbprint]
+  7500A9EB5F8ACCE6AC1D673962D621837133AE5B
+ [Subject]
+  CN=HDQ-VEEAM-ONE, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  6700072D17425138F4232D8333000300072D17
+
+[Not Before]
+  6/24/2020 2:16:39 PM
+
+[Not After]
+  6/24/2021 2:16:39 PM
+
+[Thumbprint]
+  5D0B9730F2DB345E4FC36656CBD411678B322F5C
+
+hdq-veeam-one
+[Subject]
+  CN=hdq-hradmin.sheriffleefl.org
+
+[Issuer]
+  CN=hdq-hradmin.sheriffleefl.org
+
+[Serial Number]
+  1A4EED5949F4E7A747FCF8FABB2A3621
+
+[Not Before]
+  12/2/2019 2:03:54 PM
+
+[Not After]
+  6/2/2020 3:03:54 PM
+
+[Thumbprint]
+  CFF4AE55F5E307F800EC9D8B138FD2DAB6C5B976
+ [Subject]
+  CN=HDQ-HRADMIN, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  67000783E6BF61FBAE6E5FA9290003000783E6
+
+[Not Before]
+  11/19/2020 9:29:35 PM
+
+[Not After]
+  11/19/2021 9:29:35 PM
+
+[Thumbprint]
+  C4B9661350B427820EE2A56B7D3EE4CB7CCA5650
+ [Subject]
+  CN=172.24.105.99, CN=hdq-hradmin.sheriffleefl.org
+
+[Issuer]
+  CN=172.24.105.99, CN=hdq-hradmin.sheriffleefl.org
+
+[Serial Number]
+  6495FD13AB5263AD4806942A7DF9C6A4
+
+[Not Before]
+  2/18/2019 1:14:41 PM
+
+[Not After]
+  2/18/2029 1:14:41 PM
+
+[Thumbprint]
+  655B3B19803DFCB0DDB9B3E5F365CAE9256978EF
+
+hdq-hradmin
+[Subject]
+  CN=HDQ-EPOSQL, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  6700075E6FC12270C264ABEF13000300075E6F
+
+[Not Before]
+  9/18/2020 1:38:20 PM
+
+[Not After]
+  9/18/2021 1:38:20 PM
+
+[Thumbprint]
+  26D060CBF2029A109FB843900D19CF096105E4F9
+
+hdq-eposql
+[Subject]
+  CN=FINDER_Router_R01.FL.6.036.0000_2020
+
+[Issuer]
+  CN=FINDER_Router_R01.FL.6.036.0000_2020
+
+[Serial Number]
+  1657A8F5B43265A442F95D8BD42B71FF
+
+[Not Before]
+  11/1/2019 1:00:00 AM
+
+[Not After]
+  1/31/2021 12:00:00 AM
+
+[Thumbprint]
+  D19DF6C6CBF9AFEB33A825BF9C7BCA6ADA76AA9F
+ [Subject]
+  CN=localhost
+
+[Issuer]
+  CN=localhost
+
+[Serial Number]
+  12FA724927B27F9346B0D16C17DD4C81
+
+[Not Before]
+  9/23/2020 3:48:59 PM
+
+[Not After]
+  9/22/2025 8:00:00 PM
+
+[Thumbprint]
+  C63E17FAB7055BF30456D464D0374B1162F6D0C8
+ [Subject]
+  CN=HDQ-FINDER, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  670007840A8BCBD11236F9FE1F00030007840A
+
+[Not Before]
+  11/20/2020 4:22:39 AM
+
+[Not After]
+  11/20/2021 4:22:39 AM
+
+[Thumbprint]
+  8813AC953EA6C6DD4BD52784AD8EADB5A289479F
+ [Subject]
+  CN=FINDER_Router_R01.FL.6.036.0000_2019
+
+[Issuer]
+  CN=FINDER_Router_R01.FL.6.036.0000_2019
+
+[Serial Number]
+  59256A8E88DA55B542C215F052FA8A3A
+
+[Not Before]
+  11/1/2018 1:00:00 AM
+
+[Not After]
+  1/31/2020 12:00:00 AM
+
+[Thumbprint]
+  68F778992B0E9E219844539E2102C3B0AFC5A45B
+ [Subject]
+  CN=FINDER_Router_R01.FL.6.036.0000_2021
+
+[Issuer]
+  CN=FINDER_Router_R01.FL.6.036.0000_2021
+
+[Serial Number]
+  1926D8DB85AD7A8B42921BB3B2895D13
+
+[Not Before]
+  11/1/2020 1:00:00 AM
+
+[Not After]
+  1/31/2022 12:00:00 AM
+
+[Thumbprint]
+  3F0BBB5C4C2AA8765F8283DD6121056E86EC54DE
+
+hdq-finder
+[Subject]
+  CN=*.sheriffleefl.org, OU=Domain Control Validated
+
+[Issuer]
+  CN=Go Daddy Secure Certificate Authority - G2, OU=http://certs.godaddy.com/repository/, O="GoDaddy.com, Inc.", L=Scottsdale, S=Arizona, C=US
+
+[Serial Number]
+  56795A05CF9467FA
+
+[Not Before]
+  3/1/2021 7:22:47 AM
+
+[Not After]
+  4/2/2022 8:22:47 AM
+
+[Thumbprint]
+  583E24F779A2F6D60B5C12DEDF509D4D65E45014
+ [Subject]
+  CN=*.sheriffleefl.org, OU=Domain Control Validated
+
+[Issuer]
+  CN=Go Daddy Secure Certificate Authority - G2, OU=http://certs.godaddy.com/repository/, O="GoDaddy.com, Inc.", L=Scottsdale, S=Arizona, C=US
+
+[Serial Number]
+  423FA03391DFA8C2
+
+[Not Before]
+  1/24/2019 2:06:31 PM
+
+[Not After]
+  3/5/2021 4:37:41 PM
+
+[Thumbprint]
+  452B47C68CA82A0181529A61248AA0E3B53DD2C0
+ [Subject]
+  CN=HDQ-FTP, OU=Log on Locally, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  6700074BFA73E7614F0E9ABBF6000300074BFA
+
+[Not Before]
+  8/19/2020 5:26:36 AM
+
+[Not After]
+  8/19/2021 5:26:36 AM
+
+[Thumbprint]
+  0288FF35A06EF0D9DE0F0699CD4F6C771271BFED
+
+hdq-ftp
+[Subject]
+  CN=HDQ-COREMRSQL, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  67000736DFB40600E77D7C1C7A0003000736DF
+
+[Not Before]
+  7/11/2020 3:08:21 PM
+
+[Not After]
+  7/11/2021 3:08:21 PM
+
+[Thumbprint]
+  551E8E191D20B49B37DE19D1AC4C3785FAECA72A
+
+hdq-coremrsql
+[Subject]
+  E=info@syncplify.me, CN=SyncplifyMe, O=SERVER, L=Wilmington, S=DE
+
+[Issuer]
+  E=info@syncplify.me, CN=SyncplifyMe, O=SERVER, L=Wilmington, S=DE
+
+[Serial Number]
+  009B4001A279FCD54DB5ACF1346D46F903
+
+[Not Before]
+  3/17/2016 5:53:02 AM
+
+[Not After]
+  3/15/2026 5:53:02 AM
+
+[Thumbprint]
+  D294BFB4496FDA232FED383800512D8F9156E782
+ [Subject]
+  CN=HDQ-COREMR, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  67000736E05444644441BA56400003000736E0
+
+[Not Before]
+  7/11/2020 3:10:27 PM
+
+[Not After]
+  7/11/2021 3:10:27 PM
+
+[Thumbprint]
+  5605A73CB26984E4FDD465385B908E7ADDC21305
+
+hdq-coremr
+[Subject]
+  CN=SPLMNGISPRDA, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  6700073EB45B097ACA85287DCB000300073EB4
+
+[Not Before]
+  7/26/2020 5:41:50 AM
+
+[Not After]
+  7/26/2021 5:41:50 AM
+
+[Thumbprint]
+  34D5B0B6E730E0E13680A5C41EDD8BBE14EB79E5
+
+SplmnGisPrdA
+[Subject]
+  CN=HDQ-RSI, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  6700076A6F9E03543248FFD837000300076A6F
+
+[Not Before]
+  10/8/2020 6:56:12 PM
+
+[Not After]
+  10/8/2021 6:56:12 PM
+
+[Thumbprint]
+  48BB434D47BED02EFC837E52227F801DD0DCC6FD
+
+hdq-rsi
+[Subject]
+  CN=HDQ-CAS2, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  6700076CC0C9F51DF6F18B2249000300076CC0
+
+[Not Before]
+  10/13/2020 5:56:47 AM
+
+[Not After]
+  10/13/2021 5:56:47 AM
+
+[Thumbprint]
+  E5D57A78DDB4733CCE81113B9E1D1294B4F31F92
+ [Subject]
+  CN=webmail.sheriffleefl.org, OU=Domain Control Validated
+
+[Issuer]
+  CN=Go Daddy Secure Certificate Authority - G2, OU=http://certs.godaddy.com/repository/, O="GoDaddy.com, Inc.", L=Scottsdale, S=Arizona, C=US
+
+[Serial Number]
+  00C7FFAE03F01A4E4C
+
+[Not Before]
+  3/30/2020 9:36:38 AM
+
+[Not After]
+  6/26/2022 9:36:38 AM
+
+[Thumbprint]
+  E520AF6C7F694B346331462CA32817309A16A786
+
+HDQ-CAS2
+[Subject]
+  CN=HDQ-REPLMGR, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  67000777021CC28346ED67E829000300077702
+
+[Not Before]
+  10/29/2020 11:05:57 AM
+
+[Not After]
+  10/29/2021 11:05:57 AM
+
+[Thumbprint]
+  28FB51A62B7F6504B310D0B8EA41D66C71339147
+
+hdq-replmgr
+[Subject]
+  CN=webmail.sheriffleefl.org, OU=Domain Control Validated
+
+[Issuer]
+  CN=Go Daddy Secure Certificate Authority - G2, OU=http://certs.godaddy.com/repository/, O="GoDaddy.com, Inc.", L=Scottsdale, S=Arizona, C=US
+
+[Serial Number]
+  00C7FFAE03F01A4E4C
+
+[Not Before]
+  3/30/2020 9:36:38 AM
+
+[Not After]
+  6/26/2022 9:36:38 AM
+
+[Thumbprint]
+  E520AF6C7F694B346331462CA32817309A16A786
+ [Subject]
+  CN=HDQ-CAS1, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  67000769DE79DE59843D0087EA0003000769DE
+
+[Not Before]
+  10/7/2020 9:59:09 PM
+
+[Not After]
+  10/7/2021 9:59:09 PM
+
+[Thumbprint]
+  35FC0779B4281B8211D4C373A37CB36960BB2D1E
+
+HDQ-CAS1
+[Subject]
+  CN=HDQ-WOWZA, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  6700074902A375D14487103F15000300074902
+
+[Not Before]
+  8/13/2020 1:44:06 PM
+
+[Not After]
+  8/13/2021 1:44:06 PM
+
+[Thumbprint]
+  2C9D02451DB14E09363DB6BEE9732D0BB6BDC32A
+
+hdq-wowza
+[Subject]
+  CN=SPLMNGISPRDB, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  670007BFEA58FBDBE67DE8E3F800030007BFEA
+
+[Not Before]
+  2/20/2021 1:22:28 PM
+
+[Not After]
+  2/20/2022 1:22:28 PM
+
+[Thumbprint]
+  568BBCE965A1AE3E89E99056362E1F25B8F07726
+
+splmngisprdb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Subject]
+  CN=HDQ-PSTATE, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  67000732EFE09B01A993562B0E0003000732EF
+
+[Not Before]
+  7/4/2020 12:26:22 PM
+
+[Not After]
+  7/4/2021 12:26:22 PM
+
+[Thumbprint]
+  ED6ACA7E17A55B52813EBFCC549D058F4F5C648A
+ [Subject]
+  CN=hdq-pstate.sheriffleefl.org
+
+[Issuer]
+  CN=hdq-pstate.sheriffleefl.org
+
+[Serial Number]
+  94E624910AAB5E8D4BDF10B8AABD6EDB
+
+[Not Before]
+  1/1/2013 12:00:00 AM
+
+[Not After]
+  1/1/2018 12:00:00 AM
+
+[Thumbprint]
+  C2F170F11F664B19FAF213903EED8B5C2EC813B9
+ [Subject]
+  CN=*.sheriffleefl.org, OU=Domain Control Validated
+
+[Issuer]
+  CN=Go Daddy Secure Certificate Authority - G2, OU=http://certs.godaddy.com/repository/, O="GoDaddy.com, Inc.", L=Scottsdale, S=Arizona, C=US
+
+[Serial Number]
+  455295597A847274
+
+[Not Before]
+  2/3/2016 2:44:39 PM
+
+[Not After]
+  3/5/2019 4:37:41 PM
+
+[Thumbprint]
+  719AF894B3EC9DB1B9B3D1A8A189976C5F4BC71E
+ [Subject]
+  CN=hdq-pstate
+
+[Issuer]
+  CN=hdq-pstate
+
+[Serial Number]
+  0D8890919DC162804B028F8AA6D21CA1
+
+[Not Before]
+  1/1/2013 12:00:00 AM
+
+[Not After]
+  1/1/2018 12:00:00 AM
+
+[Thumbprint]
+  328602A2F00ABCCCAD765AF8546C068475292EA9
+ [Subject]
+  CN=""
+
+[Issuer]
+  CN=""
+
+[Serial Number]
+  77F53DE181F395BD4CB8FE6B26F2AB89
+
+[Not Before]
+  1/1/2013 12:00:00 AM
+
+[Not After]
+  1/1/2018 12:00:00 AM
+
+[Thumbprint]
+  12E0CC2A44616A70C86F5B62CA01828131F020F5
+ [Subject]
+  CN=HDQ-PSTATE
+
+[Issuer]
+  CN=HDQ-PSTATE
+
+[Serial Number]
+  FBE88139202425B64542D76E997AEE12
+
+[Not Before]
+  1/1/2013 12:00:00 AM
+
+[Not After]
+  1/1/2018 12:00:00 AM
+
+[Thumbprint]
+  0C1E020421679335FA9CA8FBCE6F653E822BA781
+
+hdq-pstate
+[Subject]
+  CN=HDQ-NPS-01, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  6700070C664D0947AE5BC93770000300070C66
+
+[Not Before]
+  4/29/2020 9:22:56 PM
+
+[Not After]
+  4/29/2021 9:22:56 PM
+
+[Thumbprint]
+  C953EF320AE48E334F04D0610756A20797BF2C5A
+ [Subject]
+  CN=hdq-nps-01.sheriffleefl.org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  67000714A8AFF803BA0472E8740003000714A8
+
+[Not Before]
+  5/12/2020 1:22:56 PM
+
+[Not After]
+  5/12/2021 1:22:56 PM
+
+[Thumbprint]
+  1FEE645220C0430F96CC6FCD2AA021D707DA63EC
+
+hdq-nps-01
+
+
+[Subject]
+  CN=LCSO-CAMS, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  6700072D73DC4FF5E5EE3AA762000300072D73
+
+[Not Before]
+  6/25/2020 5:54:52 AM
+
+[Not After]
+  6/25/2021 5:54:52 AM
+
+[Thumbprint]
+  6C3604391810069D1FCA0FB41E9BA74D859F2379
+
+LCSO-CAMS
+[Subject]
+  CN=HDQ-OLDSPLMNREP, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  6700076E8F8563B8D181C9143A000300076E8F
+
+[Not Before]
+  10/15/2020 4:49:38 PM
+
+[Not After]
+  10/15/2021 4:49:38 PM
+
+[Thumbprint]
+  B31578239987D71083016C616C769645152BE8D1
+
+hdq-oldsplmnrep
+[Subject]
+  CN=EOC-INMEDIAS, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  670007C1DBD98C857BD09073D300030007C1DB
+
+[Not Before]
+  2/23/2021 4:04:53 PM
+
+[Not After]
+  2/23/2022 4:04:53 PM
+
+[Thumbprint]
+  B73759BE4EC0FA56B1F36D6A82C9CD006FBAAFBA
+
+eoc-inMEDIAS
+[Subject]
+  CN=WMSvc-HDQ-GIS
+
+[Issuer]
+  CN=WMSvc-HDQ-GIS
+
+[Serial Number]
+  57A1A9320CCF74B84E277B3080D5A864
+
+[Not Before]
+  10/30/2015 11:19:39 AM
+
+[Not After]
+  10/27/2025 11:19:39 AM
+
+[Thumbprint]
+  F6350EBF8F49BB0A19AB6C574D5C944DE666101D
+ [Subject]
+  CN=HDQ-GIS, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  670007109BB83845D482EC419C00030007109B
+
+[Not Before]
+  5/5/2020 10:03:00 PM
+
+[Not After]
+  5/5/2021 10:03:00 PM
+
+[Thumbprint]
+  A4909F201994071849EA75B122D87C974E401B52
+
+hdq-gis
+[Subject]
+  CN=HDQ-PRINT, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  6700074B5A37DD71CCBD7353FC000300074B5A
+
+[Not Before]
+  8/18/2020 5:45:04 AM
+
+[Not After]
+  8/18/2021 5:45:04 AM
+
+[Thumbprint]
+  D30AAF0247A9F535AD881903C472FF8F233401CE
+
+HDQ-PRINT
+[Subject]
+  CN=HDQ-ARB, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  67000780E5ABDECDF1A70AE63C0003000780E5
+
+[Not Before]
+  11/15/2020 5:40:55 AM
+
+[Not After]
+  11/15/2021 5:40:55 AM
+
+[Thumbprint]
+  1D1BA6F4F82058DDF37B49F47AC9FAC1970721C6
+
+hdq-arb
+
+
+
+
+[Subject]
+  CN=HDQ-GISPORTAL, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  6700073E4E7F3263513E2E9573000300073E4E
+
+[Not Before]
+  7/25/2020 3:40:46 AM
+
+[Not After]
+  7/25/2021 3:40:46 AM
+
+[Thumbprint]
+  B5BD98776CA65F00D83010CD8D8F574B18B2DB36
+ [Subject]
+  CN=*.sheriffleefl.org, OU=Domain Control Validated
+
+[Issuer]
+  CN=Go Daddy Secure Certificate Authority - G2, OU=http://certs.godaddy.com/repository/, O="GoDaddy.com, Inc.", L=Scottsdale, S=Arizona, C=US
+
+[Serial Number]
+  423FA03391DFA8C2
+
+[Not Before]
+  1/24/2019 2:06:31 PM
+
+[Not After]
+  3/5/2021 4:37:41 PM
+
+[Thumbprint]
+  452B47C68CA82A0181529A61248AA0E3B53DD2C0
+
+hdq-gisportal
+
+
+[Subject]
+  CN=HDQ-SQL, OU=LCSO Servers, DC=sheriffleefl, DC=org
+
+[Issuer]
+  CN=LCSO-PDC, OU=Technical Services, O=Lee County Sheriff's Office, L=Ft Myers, S=FL, C=US
+
+[Serial Number]
+  67000733F52EEB3F793F9FC2A50003000733F5
+
+[Not Before]
+  7/6/2020 12:25:25 PM
+
+[Not After]
+  7/6/2021 12:25:25 PM
+
+[Thumbprint]
+  5C1163CDBE0945AC623F0E30EC5296AA92203545
+
+hdq-sql
